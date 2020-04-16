@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PLBG8LJLsFy8nmeI4r5PVwQI6l7NFmNM66ioSIiVeYn40qQ1UR7SFQrj5umLymTiIzwQMZ7wpQJmNZOVhLmjrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ebuka (Chyniz)\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ebuka (Chyniz)\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
